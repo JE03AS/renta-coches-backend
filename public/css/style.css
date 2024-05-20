@@ -1,0 +1,17 @@
+body {
+    padding-top: 20px;
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#cars {
+    margin-bottom: 30px;
+}
+
+#carForm {
+    max-width: 600px;
+    margin: 0 auto;
+}
